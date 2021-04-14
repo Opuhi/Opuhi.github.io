@@ -1,0 +1,24 @@
+{
+  "appName": "GreenLovers",
+  "email":"Email",
+  "password":"Password",
+  "send": "Send",
+  "login":{
+    "signin": "Sign in",
+    "forgot_password": "Forgot password",
+    "signup": "Don't have an account? Sign Up",
+    "already_member": "Already a member?",
+    "send_reset_email": "Reset your password"
+  },
+  "signup":{
+    "iam":"I am"
+  },
+  "navigation": {
+    "home": "Home",
+  },
+
+  "home": {
+    "welcome": "Welcome to %{appName}!"
+  }
+
+}
